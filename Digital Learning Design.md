@@ -1,3 +1,8 @@
+# 🏗️ Dự án Thiết kế Khóa học Online
+
+### 📊 Cấu trúc quản lý dự án
+
+```mermaid
 graph TD
     Project[Online Course Project] --> GitHub[GitHub: Project Management]
     Project --> Cloud[Google Drive: Media Assets]
